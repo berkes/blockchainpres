@@ -1,54 +1,14 @@
----
-author:
-  - Bèr `berkes` Kessels
-title: Blockchain
-subtitle: "Eigendom vastleggen in het Bitcoin netwerk"
-abstract: "Aan de hand van enkele voorbeelden bespreken we hoe eigendom in het Bitcoin netwerk vastgelegd kunnen worden. Van het eigendomsbewijs van een huis, via concertkaartjes, tot een datering van auteursrecht: Bitcoin biedt zoveel meer dan enkel geldstromen beheren."
-keywords:
-  - Blockchain
-  - Bitcoin
-  - OP_RETURN
-  - Colored Coins
-  - Ethereum
-  - Smart Contracts
-lang: nl
----
-
-## Over Bèr Kessels
-
-* Bèr Kessels
-* @berkes, github.com/berkes
-* Senior Developer at Wiebetaaltwat
-
 ## Over de presentatie
 
 * Staat op [berk.es/blockcainpres](http://berk.es/blockchainpres)
 * Github: [github.com/berkes/blockcainpres](http://github.com/berkes/blockcainpres)
 
-## Over mij en Blockchain
-
-* April 2011 begonnen met Bitcoin
-* Werkt voor Fintech startup Searcle: aan Wiebetaaltwat
-* Momenteel betaalfunctie aan het inbouwen in Wiebetaaltwat
-* iDeal is niet ideaal. C2C is duur, complex en traag
-* Onderzoek naar smart contracts
-
-## Wiebetaaltwat
-
-* IOUs: huislijsten
-* 1 miljoen gebruikers
-* €20 miljoen aan "uitgaven" per maand
-* €2.6 miljoen aan onderlinge verrekeningen per maand
-* Kan dat met blockchain? Ja: ethereum. Makkelijk: nee. verdienmodel: nope
-
 ## Inhoud
 
 * Bitcoin en Blockchain
 * Smart Contracts
-* OP_RETURN
-* Ethereum
-* Colored Coins
-* Vragen
+* Toepassingen
+* De Hype
 
 ## Vraag:
 
