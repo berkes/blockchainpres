@@ -26,11 +26,15 @@ contract status.
 
 ## Gedistribueerd?
 
-* Peers verbonden in een netwerk
-* Peers kunnen wegvallen
-* Peers kunnen zich kwaadaardig gedragen:
-     + Blockchain moet dan nog altijd functioneren
-     (Byzantine fault tolerance)
+* Anne stuurt geld naar persoon Bob
+* Anne maakt hiervoor een transactie aan en stuurt deze naar haar
+    server S
+* Server S stuurt het naar andere leden op het netwerk. Die sturen het
+    weer door etc.
+* Alle leden verefiëren de informatie
+* Iedereen valideert de informatie
+* Geen activiteit zonder permissie van de leden
+* Indien geen bezwaren, wordt de transactie toegepast
 
 ## Waarom Gedistribueerd?
 
