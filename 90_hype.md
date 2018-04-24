@@ -25,3 +25,8 @@
 
 ![Yes](do_you_need_a_blockchain.png)
 
+## PlaceBazaar
+
+* Bijdragen: Permissionless
+* Uitlezen: Permissionless
+* Betalingen: Zonder derden
