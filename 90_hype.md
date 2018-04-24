@@ -1,4 +1,4 @@
-## Do you need a blockchain?
+## Heb je een Blockchain nodig?
 
 ![No](do_you_need_a_blockchain.png)\ 
 
@@ -10,7 +10,7 @@
 
 ![centraal](centraal.jpg)\ 
 
-## Do you need a blockchain?
+## Heb je een Blockchain nodig?
 
 ![No](do_you_need_a_blockchain.png)\ 
 
@@ -21,7 +21,12 @@
 * Kleine handelaren (Iedereen kan ontvangen)
 * Onafhankelijk, Decentraal, Permissionless
 
-## Do you need a blockchain?
+## Heb je een Blockchain nodig?
 
 ![Yes](do_you_need_a_blockchain.png)
 
+## PlaceBazaar
+
+* Bijdragen: Permissionless
+* Uitlezen: Permissionless
+* Betalingen: Zonder derden
